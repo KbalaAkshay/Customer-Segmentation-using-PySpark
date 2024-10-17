@@ -38,3 +38,7 @@ Dataset Features:
 
 8) Country: Country name. Nominal, the name of the country where the customer resides.
 
+Recency: Days since last purchase for each customer.
+Frequency: Number of purchases made by each customer.
+Monetary: Total spend by each customer.
+
