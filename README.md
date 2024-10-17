@@ -8,8 +8,11 @@ In this project, we use the RFM (Recency, Frequency, Monetary) model for segment
 The project consists of several steps:
 
   1)Data extraction and preprocessing.
+  
   2)Calculation of RFM scores for each customer.
+  
   3)Using K-means clustering to segment customers based on their RFM scores.
+  
   4)Analyzing each segment to derive actionable business insights.
 
 By the end of this project, we will have grouped customers into segments such as "High-Value Customers," "At-Risk Customers," and "New Customers."
