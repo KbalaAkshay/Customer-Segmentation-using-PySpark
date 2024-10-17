@@ -21,19 +21,20 @@ By the end of this project, we will have grouped customers into segments such as
 We use the Online Retail Dataset available from the UCI Machine Learning Repository or from https://archive.ics.uci.edu/dataset/352/online+retail.
 
 Dataset Features:
-InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction.
 
-StockCode: Product code. Nominal, a 5-digit integral number uniquely assigned to each distinct product.
+1) InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction.
 
-Description: Product name. Nominal.
+2) StockCode: Product code. Nominal, a 5-digit integral number uniquely assigned to each distinct product.
 
-Quantity: The quantities of each product per transaction. Numeric.
+3) Description: Product name. Nominal.
 
-InvoiceDate: Invoice date and time. Numeric.
+4) Quantity: The quantities of each product per transaction. Numeric.
 
-UnitPrice: Unit price. Numeric.
+5) InvoiceDate: Invoice date and time. Numeric.
 
-CustomerID: Customer number. Nominal, uniquely assigned.
+6) UnitPrice: Unit price. Numeric.
 
-Country: Country name. Nominal, the name of the country where the customer resides.
+7) CustomerID: Customer number. Nominal, uniquely assigned.
+
+8) Country: Country name. Nominal, the name of the country where the customer resides.
 
